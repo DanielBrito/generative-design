@@ -1,4 +1,4 @@
-# generative-design
+# Generative Design
 
 Generative design is a form finding process that can mimic nature’s evolutionary approach to design. It can start with design goals and then explore innumerable possible permutations of a solution to find the best option. By using cloud computing, generative design can cycle through thousands—or even millions—of design choices, test configurations and learn from each iteration what works and what doesn’t. The process can enable designers to generate brand new options, beyond what a human alone could create, to arrive at a most effective design.
 
