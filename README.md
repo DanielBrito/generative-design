@@ -23,3 +23,5 @@ Definition by Sivam Krish 2013: "Generative Design is the transformation of comp
 One of the most important and distinguishing parts that making a computational model generative is the feedback loop. The feedback ranges from simple mechanisms, where the model takes its own output for input, to relatively complex ones incorporating design evaluation routines. Generative methods have their roots deep in the system dynamics modelling and are, by nature, repetitive processes where the solution is developed during several iterations of design operations.
 
 Source: https://en.wikipedia.org/wiki/Generative_design
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/70/Generative_Design_Process.png)
