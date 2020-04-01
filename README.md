@@ -8,7 +8,7 @@ Therefore, I would like to share some of the content that I've been finding for 
 
 ___
 
-## Generative Design
+## Generative Design (Wikipedia)
 
 *Generative design is an iterative design process that involves a program that will generate a certain number of outputs that meet certain constraints, and a designer that will fine tune the feasible region by changing minimal and maximal values of an interval in which a variable of the program meets the set of constraints, in order to reduce or augment the number of outputs to choose from. The program doesn't need to be run on a machine like a digital computer, it can be run by a human for example with pen and paper. The designer doesn't need to be a human, it can be a test program in a testing environment or an artificial intelligence, for example a generative adversarial network. The designer learns to refine the program (usually involving algorithms) with each iteration as their design goals become better defined over time.*
 
