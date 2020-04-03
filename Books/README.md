@@ -56,7 +56,7 @@ ___
 
 ___
 
-## [Processing For Visual Artists](www.google.com)
+## [Processing For Visual Artists](https://github.com/DanielBrito/generative-design/blob/master/Books/Processing%20for%20Visual%20Artists%20(SIGGRAPH%202010%20-%20Course%20Notes).pdf)
 
 *The following course notes are adapted from the book, Processing for Visual Artists: How To Create Expressive Images and Interactive Art, by Andrew Glassner, published by AK Peters (2010).*
 
