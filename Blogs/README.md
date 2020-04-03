@@ -1,3 +1,3 @@
-# BLOGS
+# POSTS
 
-These are some blog posts about the theme.
+* [The problem of learning (Danil Nagy)](https://medium.com/generative-design/generative-design-introduction-64fb2db38e1)
