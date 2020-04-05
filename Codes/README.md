@@ -7,3 +7,5 @@
 * [Learning Processing: Programming Images, Animation, and Interaction (The Coding Train)](https://github.com/DanielBrito/learning-processing)
 
 * [The Nature of Code - Examples (Daniel Shiffman)](https://github.com/nature-of-code/noc-examples-processing)
+
+* [Creative code experiments using Processing and p5.js (Daniel Brito)](https://github.com/DanielBrito/creative-code-experiments)
