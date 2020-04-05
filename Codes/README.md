@@ -6,4 +6,4 @@
 
 * [Learning Processing: Programming Images, Animation, and Interaction (The Coding Train)](https://github.com/DanielBrito/learning-processing)
 
-* [The Nature of Code (Daniel Shiffman)](https://github.com/nature-of-code/noc-examples-processing)
+* [The Nature of Code - Examples (Daniel Shiffman)](https://github.com/nature-of-code/noc-examples-processing)
