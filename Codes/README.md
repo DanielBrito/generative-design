@@ -5,3 +5,5 @@
 * [Processing - A Handbook for Visual Designers and Artists (Casey Reas, Ben Fry)](https://www.amazon.com/Processing-Programming-Handbook-Designers-Artists/dp/0262182629)
 
 * [Learning Processing: Programming Images, Animation, and Interaction (The Coding Train)](https://github.com/DanielBrito/learning-processing)
+
+* [The Nature of Code (Daniel Shiffman)](https://github.com/nature-of-code/noc-examples-processing)
