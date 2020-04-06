@@ -6,6 +6,8 @@ Nowadays, I carry with me an increasing appreciation for this field, since I als
 
 Therefore, I would like to share some of the content that I've been finding for those who may be also interested in this intersection between visual arts and programming.
 
+<img src="https://2.bp.blogspot.com/-27_xMx0HSq0/Wn88xGVrYGI/AAAAAAAAQ3I/mU9TpaKnHqc39cE4uGcUp9cjLKxtHE8ZgCLcBGAs/s400/generative%2Bdesign.png" width="500">
+
 ___
 
 ## Generative Design (Wikipedia)
