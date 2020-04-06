@@ -35,3 +35,15 @@ ___
 *Abstract: In this paper we compare visual and textual programming languages for generative design. We argue that, in the past, this comparison has been flawed and that it is now time to reconsider the potential of the textual programming paradigm but using modern programming languages and development environments specifically targeted to the generative design domain. We present VisualScheme as a prime example of such language and we compare it with the most used visual programming language in the generative design field.*
 
 ___
+
+## [Generative Design a new stage in the design process (Rita Fernandes)](https://github.com/DanielBrito/generative-design/blob/master/Articles/Generative%20Design%20a%20new%20stage%20in%20the%20design%20process%20(Rita%20Fernandes).pdf)
+
+*Abstract: Design processes are characterized by change. Unfortunately, CAD tools are currently being used just as a more efficient version of the traditional paper-based approach, an approach that does not help the designers at handling change, particularly for the exploration of different solutions or to adapt the design to evolving requirements.*
+
+*Recently, new approaches have been introduced in the design process, which are better tailored for handling change. Generative Design is one of them and can be defined as the creation of shapes determined by algorithms.*
+
+*This dissertation argues for one main point: integrating Generative Design as a new stage in the design process dramatically simplifies the handling of changes. In particular, we propose an algorithmic approach to design that overcomes the limitations of the traditional approach for using CAD tools.*
+
+*Our approach requires the formalization of the design intents, for which we use programming. This approach has an initial cost. However, we argue that this cost is highly rewarding when the designers need to handle change, by allowing them to explore many different alternatives, quickly and effortlessly.*
+
+*To evaluate the proposed approach we developed a three-dimensional model of a case study, a large and complex building, using a purely programming-based representation.*
