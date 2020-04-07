@@ -47,3 +47,9 @@ ___
 *Our approach requires the formalization of the design intents, for which we use programming. This approach has an initial cost. However, we argue that this cost is highly rewarding when the designers need to handle change, by allowing them to explore many different alternatives, quickly and effortlessly.*
 
 *To evaluate the proposed approach we developed a three-dimensional model of a case study, a large and complex building, using a purely programming-based representation.*
+
+___
+
+## [Shape grammars and the generative specification of painting and sculpture (Stiny e Gips)](https://github.com/DanielBrito/generative-design/blob/master/Articles/Shape%20grammars%20and%20the%20generative%20specification%20of%20painting%20and%20sculpture%20(Stiny%20e%20Gips).pdf)
+
+*Abstract: A method of shape generation using shape grammars which take shape as primitive and have shape-specific rules is presented. A formalism for the complete, generative specification of a class of non-representational, geometric paintings or sculptures is defined which has shape grammars as its structural component. Paintings are material representations of two-dimensional shapes gen~rated by shape grammars, sculptures of three-dimensional shapes. Implications for aesthetics and design theory in the visual arts are discussed. Aesthetics is considered in terms of specificational simplicity and visual complexity. In design based on generative specifications, the artist chooses structural and material relationships and then determines algorithmically the resulting works of art.*
