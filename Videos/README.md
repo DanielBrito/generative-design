@@ -15,4 +15,4 @@ ___
 ## Miscellaneous
 
 * [Autodesk Generative Design](https://www.youtube.com/watch?v=CtYRfMzmWFU)
-* [Procedural Generation](https://www.youtube.com/playlist?list=PL5KbKbJ6Gf9-FZIwc1M7dbpJIslv-GWFY)
+* [Procedural Generation (Board To Bits)](https://www.youtube.com/playlist?list=PL5KbKbJ6Gf9-FZIwc1M7dbpJIslv-GWFY)
