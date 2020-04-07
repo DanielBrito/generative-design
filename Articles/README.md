@@ -26,7 +26,7 @@ ___
 
 ## [Modern Programming for Generative Design (José António Branquinho de Oliveira Lopes)](https://github.com/DanielBrito/generative-design/blob/master/Articles/Modern%20Programming%20For%20Generative%20Design%20(Jos%C3%A9%20Lopes).pdf)
 
-*Abstract: Cada vez mais arquitectos transitam dos processos tradicionais e das codificações arquitecturais clássicas para uma nova área chamada Desenho Generativo. Desenho Generativo (DG) é a aplicação de métodos computacionais na geração de objectos arquitecturais. Nesta área, designers escrevem programas que quando executados produzem modelos geométricos. Este movimento é claramente visível no mundo acadêmico, com a adopção de cadeiras de programação no currículo de arquitectura, e no mundo da indústria, com estúdios de arquitectura a substituir processos tradicionais por aplicações de computador. Consequentemente, arquitectos e designers precisam desesperadamente de um sistema moderno para DG.*
+*Resumo: Cada vez mais arquitectos transitam dos processos tradicionais e das codificações arquitecturais clássicas para uma nova área chamada Desenho Generativo. Desenho Generativo (DG) é a aplicação de métodos computacionais na geração de objectos arquitecturais. Nesta área, designers escrevem programas que quando executados produzem modelos geométricos. Este movimento é claramente visível no mundo acadêmico, com a adopção de cadeiras de programação no currículo de arquitectura, e no mundo da indústria, com estúdios de arquitectura a substituir processos tradicionais por aplicações de computador. Consequentemente, arquitectos e designers precisam desesperadamente de um sistema moderno para DG.*
 
 ___
 
