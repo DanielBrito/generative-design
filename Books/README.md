@@ -6,15 +6,11 @@
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/61WWfTVzLYL._SX373_BO1,204,203,200_.jpg" width="500">
 
-___
-
 ## [Generative Design - Visualize, Program, and Create with Processing (Hartmut Bohnacker)](https://www.amazon.com.br/Generative-Design-Visualize-Program-Processing/dp/1616890770)
 
 *Generative design is a revolutionary new method of creating artwork, models, and animations from sets of rules, or algorithms. By using accessible programming languages such as Processing, artists and designers are producing extravagant, crystalline structures that can form the basis of anything from patterned textiles and typography to lighting, scientific diagrams, sculptures, films, and even fantastical buildings. Opening with a gallery of thirty-five illustrated case studies, Generative Design takes users through specific, practical instructions on how to create their own visual experiments by combining simple-to-use programming codes with basic design principles. A detailed handbook of advanced strategies provides visual artists with all the tools to achieve proficiency. Both a how-to manual and a showcase for recent work in this exciting new field, Generative Design is the definitive study and reference book that designers have been waiting for.*
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51loNKt4HqL._SX358_BO1,204,203,200_.jpg" width="500">
-
-___
 
 ## [Generative Art: A Practical Guide Using Processing (Matt Pearson)](https://www.amazon.com.br/Generative-Art-Practical-Guide-Processing/dp/1935182625)
 
@@ -32,15 +28,11 @@ ___
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41Z3sTjk1zL.jpg" width="500">
 
-___
-
 ## [Getting Started with Processing: A Hands-On Introduction to Making Interactive Graphics (Casey Reas, Ben Fry)](https://www.amazon.com/Getting-Started-Processing-Hands-Introduction/dp/1457187086)
 
 *Processing opened up the world of programming to artists, designers, educators, and beginners. This short book gently introduces the core concepts of computer programming and working with Processing. Written by the co-founders of the Processing project, Reas and Fry, Getting Started with Processing shows you how easy it is to make software and systems with interactive graphics. If you're an artist looking to develop interactive graphics programs or a programmer on your way to becoming an artist, this book will take you where you want to go. Updated with new material on graphics manipulation, data, and for the latest version of Processing.*
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41GY1Dj2X2L.jpg" width="500">
-
-___
 
 ## [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction (Daniel Shiffman)](https://www.amazon.com/Learning-Processing-Beginners-Programming-Interaction/dp/0123736021)
 
@@ -52,15 +44,11 @@ ___
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51r-HbQtUeL.jpg" width="500">
 
-___
-
 ## [Processing: A Programming Handbook for Visual Designers and Artists (Casey Reas, Ben Fry)](https://www.amazon.com.br/Processing-Programming-Handbook-Designers-Artists/dp/026202828X)
 
 *The visual arts are rapidly changing as media moves into the web, mobile devices, and architecture. When designers and artists learn the basics of writing software, they develop a new form of literacy that enables them to create new media for the present, and to imagine future media that are beyond the capacities of current software tools. This book introduces this new literacy by teaching computer programming within the context of the visual arts. It offers a comprehensive reference and text for Processing, an open-source programming language that can be used by students, artists, designers, architects, researchers, and anyone who wants to program images, animation, and interactivity. Written by Processing's cofounders, the book offers a definitive reference for students and professionals. Tutorial chapters make up the bulk of the book; advanced professional projects from such domains as animation, performance, and installation are discussed in interviews with their creators.*
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51GxY%2BzTcqL._SX376_BO1,204,203,200_.jpg" width="500">
-
-___
 
 ## [Processing: Creative Coding and Computational Art (Ira Greenberg)](https://www.amazon.com.br/Processing-Creative-Coding-Computational-Art/dp/159059617X)
 
@@ -68,15 +56,11 @@ ___
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/61huIFzLI4L.jpg" width="500">
 
-___
-
 ## [Processing For Visual Artists](https://github.com/DanielBrito/generative-design/blob/master/Books/Processing%20for%20Visual%20Artists%20(SIGGRAPH%202010%20-%20Course%20Notes).pdf)
 
 *The following course notes are adapted from the book, Processing for Visual Artists: How To Create Expressive Images and Interactive Art, by Andrew Glassner, published by AK Peters (2010).*
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/513tC6es6FL._SX351_BO1,204,203,200_.jpg" width="500">
-
-___
 
 ## [Programming Interactivity (Joshua Noble)](https://www.amazon.com/Programming-Interactivity-Designers-Processing-openFrameworks/dp/144931144X)
 
@@ -85,8 +69,6 @@ ___
 *You’ll get a complete introduction to three free tools created specifically for artists and designers: the Processing programming language, the Arduino microcontroller, and the openFrameworks toolkit. You’ll also find working code samples you can use right away, along with the background and technical information you need to design, program, and build your own projects.*
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/5131mwA4JRL._SX258_BO1,204,203,200_.jpg" width="500">
-
-___
 
 ## [The Nature of Code: Simulating Natural Systems with Processing (Daniel Shiffman)](https://www.amazon.com.br/Nature-Code-Simulating-Natural-Processing/dp/0985930802)
 
