@@ -8,7 +8,7 @@
 
 * [The Nature of Code - Examples (Daniel Shiffman)](https://github.com/nature-of-code/noc-examples-processing)
 
-* [Creative coding experiments using Processing and p5.js (Daniel Brito)](https://github.com/DanielBrito/creative-coding-experiments)
+* [Creative coding experiments using Processing, p5.js and Cinder (Daniel Brito)](https://github.com/DanielBrito/creative-coding-experiments)
 
 * [Code Bullet Projects](https://github.com/Code-Bullet?tab=repositories)
 
