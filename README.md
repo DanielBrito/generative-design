@@ -1,10 +1,10 @@
-# Research about algorithms that generate art
+# RESEARCH ABOUT ALGORITHMS THAT GENERATE ART
 
 I discovered the term ***generative design*** by accident, when I was surfing on Instagram and I saw an amazing image that was created using this technique. Then, I started looking for articles, videos, and books, to learn more about it.
 
 Nowadays, I carry with me an increasing appreciation for this field, since I also consider myself a visual artist.
 
-Therefore, I would like to share some of the content that I've been finding for those who may be also interested in this intersection between visual arts and programming.
+Therefore, I would like to share some of the content that I've been [creating](https://github.com/DanielBrito/creative-coding-experiments) and finding for those who may be also interested in this intersection between visual arts and programming.
 
 <img src="https://2.bp.blogspot.com/-27_xMx0HSq0/Wn88xGVrYGI/AAAAAAAAQ3I/mU9TpaKnHqc39cE4uGcUp9cjLKxtHE8ZgCLcBGAs/s400/generative%2Bdesign.png" width="500">
 
