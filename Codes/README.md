@@ -15,3 +15,5 @@
 * [Processing Examples](https://processing.org/examples/)
 
 * [Generative Art - A Practical Guide Using Processing (Matt Pearson)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Generative%20Art%20-%20A%20Practical%20Guide%20Using%20Processing%20(Matt%20Pearson))
+
+* [Cinder Samples](https://github.com/cinder/Cinder/tree/master/samples)
