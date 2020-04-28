@@ -59,3 +59,7 @@
 ## [Instant Architecture (Peter Wonka)](https://github.com/DanielBrito/generative-design/blob/master/Articles/Instant%20Architecture%20(Peter%20Wonka).pdf)
 
 *Abstract: This paper presents a new method for the automatic modeling of architecture. Building designs are derived using split grammars, a new type of parametric set grammar based on the concept of shape. The paper also introduces an attribute matching system and a separate control grammar, which offer the ßexibility required to model buildings using a large variety of different styles and design ideas. Through the adaptive nature of the design grammar used, the created building designs can either be generic or adhere closely to a speciÞed goal, depending on the amount of data available.*
+
+## * [Computational Design I: Theory and Applications (MIT)](http://www.mit.edu/~tknight/IJDC/)
+
+*Abstract: Shape grammars were invented over twenty-five years ago by Stiny and Gips. They were one of the earliest algorithmic systems for creating and understanding designs directly through computations with shapes, rather than indirectly through computations with text or symbols. Over the years, shape grammars have been explored through applications addressing a variety of design problems. The history of these applications in architecture and the arts is sketched in this paper. The roles of shape grammar applications in education and practice are outlined. New and ongoing issues concerning shape grammars in education and practice are discussed.*
