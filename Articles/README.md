@@ -46,6 +46,8 @@
 
 ## [Creative Coding - Programming for Personal Expression (Peppler, Kafai)](https://github.com/DanielBrito/generative-design/blob/master/Articles/Creative%20Coding%20-%20Programming%20for%20Personal%20Expression%20(Peppler%2C%20Kafai).pdf)
 
-*Abstract: Media Arts within primary and secondary education is a relatively new avenue of research. Within the context of the arts classroom,
-rarely is learning to program emphasized despite its importance for creative expression in a digital medium. We present outcomes
-from an extensive field study at a digital studio where youth accessed programming environments emphasizing graphic, music and video. Learning the language of creative coding is essential to expression in a digital medium — one with increasing importance for youth and society at large. Here, we argue that it’s not just in the viewing or playing of digital media but also in the constructive — or coding — experience through which connections to art can be established.*
+*Abstract: Media Arts within primary and secondary education is a relatively new avenue of research. Within the context of the arts classroom, rarely is learning to program emphasized despite its importance for creative expression in a digital medium. We present outcomes from an extensive field study at a digital studio where youth accessed programming environments emphasizing graphic, music and video. Learning the language of creative coding is essential to expression in a digital medium — one with increasing importance for youth and society at large. Here, we argue that it’s not just in the viewing or playing of digital media but also in the constructive — or coding — experience through which connections to art can be established.*
+
+## [Procedural Modeling of Buildings (Pavel Reichl)](https://github.com/DanielBrito/generative-design/blob/master/Articles/Procedural%20modeling%20of%20buildings%20(Pavel%20Reichl).pdf)
+
+*Abstract: This thesis describes theoretical basis of co-temporary techniques used for procedural modeling of buildings and thoroughly explains use of CGA shape grammars. An integral part of this thesis is a plug-in into a modeling tool Blender which demonstrates the usage and provides visual results of the CGA shape grammar technique.*
