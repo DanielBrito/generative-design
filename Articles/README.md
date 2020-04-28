@@ -51,3 +51,11 @@
 ## [Procedural Modeling of Buildings (Pavel Reichl)](https://github.com/DanielBrito/generative-design/blob/master/Articles/Procedural%20modeling%20of%20buildings%20(Pavel%20Reichl).pdf)
 
 *Abstract: This thesis describes theoretical basis of co-temporary techniques used for procedural modeling of buildings and thoroughly explains use of CGA shape grammars. An integral part of this thesis is a plug-in into a modeling tool Blender which demonstrates the usage and provides visual results of the CGA shape grammar technique.*
+
+## [Computer Implementation of Shape Grammars (James Gips)](https://github.com/DanielBrito/generative-design/blob/master/Articles/Computer%20Implementation%20of%20Shape%20Grammars%20(James%20Gips).pdf)
+
+*Abstract: Just as there are symbolic thinkers, people who think mainly in terms of letters and numbers and other symbols, and visual thinkers, people who think primarily in terms of shapes and colors and spatial relationships, there can be symbolic computations and visual computations. Clearly, symbolic computations are much more extensively developed; digital computers are based on symbols. Shape grammars are intended to form a basis for purely visual computation. The primitives in shape grammars are shapes, rather than symbols. The relationships and operations are all spatial (e.g. similarity, rotation) rather than symbolic.*
+
+## [Instant Architecture (Peter Wonka)](https://github.com/DanielBrito/generative-design/blob/master/Articles/Instant%20Architecture%20(Peter%20Wonka).pdf)
+
+*Abstract: This paper presents a new method for the automatic modeling of architecture. Building designs are derived using split grammars, a new type of parametric set grammar based on the concept of shape. The paper also introduces an attribute matching system and a separate control grammar, which offer the ßexibility required to model buildings using a large variety of different styles and design ideas. Through the adaptive nature of the design grammar used, the created building designs can either be generic or adhere closely to a speciÞed goal, depending on the amount of data available.*
