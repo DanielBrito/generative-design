@@ -9,3 +9,4 @@
 * [Awesome Creative Coding (Terkelg)](https://github.com/terkelg/awesome-creative-coding)
 * [DevArt](https://devart.withgoogle.com/)
 * [GRAPE](http://grape.swap-zt.com/)
+* [Awesome Generative Art](https://github.com/kosmos/awesome-generative-art)
