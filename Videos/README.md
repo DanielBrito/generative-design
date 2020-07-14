@@ -14,3 +14,4 @@
   * [Autodesk Generative Design](https://www.youtube.com/watch?v=CtYRfMzmWFU)
   * [Procedural Generation (Board To Bits)](https://www.youtube.com/playlist?list=PL5KbKbJ6Gf9-FZIwc1M7dbpJIslv-GWFY)
   * [The Art of Creative Coding - Off Book (PBS Digital Studios)](https://www.youtube.com/watch?v=eBV14-3LT-g)
+  * [Inventing Game of Life (John Conway) - Numberphile](https://www.youtube.com/watch?v=R9Plq-D1gEk)
