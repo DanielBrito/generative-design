@@ -115,8 +115,8 @@ const App: React.FC = () => {
               style={{
                 width: 20,
                 height: 20,
-                backgroundColor: grid[i][j] ? "pink" : undefined,
-                border: "solid 1px black",
+                backgroundColor: grid[i][j] ? "green" : undefined,
+                border: "solid 1px gray",
               }}
             ></div>
           ))
