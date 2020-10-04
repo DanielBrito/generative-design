@@ -1,4 +1,4 @@
-# RESEARCH ABOUT ALGORITHMS THAT GENERATE ART
+# Generative Design
 
 I discovered the term ***generative design*** by accident, when I was surfing on Instagram and I saw an amazing image that was created using this technique. Then, I started looking for articles, videos, and books, to learn more about it.
 
@@ -10,7 +10,7 @@ Therefore, I would like to share some of the content that I've been [creating](h
 
 ___
 
-## Generative Design (Wikipedia)
+## Definition (Wikipedia)
 
 *Generative design is an iterative design process that involves a program that will generate a certain number of outputs that meet certain constraints, and a designer that will fine tune the feasible region by changing minimal and maximal values of an interval in which a variable of the program meets the set of constraints, in order to reduce or augment the number of outputs to choose from. The program doesn't need to be run on a machine like a digital computer, it can be run by a human for example with pen and paper. The designer doesn't need to be a human, it can be a test program in a testing environment or an artificial intelligence, for example a generative adversarial network. The designer learns to refine the program (usually involving algorithms) with each iteration as their design goals become better defined over time.*
 
