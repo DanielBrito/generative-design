@@ -1,0 +1,1 @@
+// Processing "easy" approachvoid draw(){}  // we're required to include draw() fucntionvoid mousePressed() {  println(" Processing example: mouse press detected");}

@@ -1,0 +1,1 @@
+int xpos, ypos;int xspeed=3;int yspeed=5;void setup(){  size(400, 400);}void draw(){  background(0);  rect(xpos, ypos, 10, 10);   xpos+=xspeed;  ypos+=yspeed;  checkCollisions(xpos, ypos); }void checkCollisions(int xp, int yp){  if (xp>=width-10 || xp<=0){    xspeed*=-1;  }  if (yp>=width-10 || yp<=0){    yspeed*=-1;  }}

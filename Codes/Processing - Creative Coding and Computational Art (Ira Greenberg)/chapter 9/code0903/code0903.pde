@@ -1,0 +1,1 @@
+size(400, 400);background(255);strokeWeight(10);fill(127);ellipseMode(CENTER_RADIUS);ellipse(200, 200, 170, 170);fill(255);ellipseMode(CENTER);ellipse(200, 200, 170, 170);

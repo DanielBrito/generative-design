@@ -1,0 +1,1 @@
+// object (reference) variableRectangle r1;void setup(){  // create new rectangle object  r1 = new Rectangle(100, 200, 150, 150);}// class descriptionclass Rectangle {  //class constructor  Rectangle(int x, int y, int w, int h) {    println("x pos = "+ x+"\ny pos = " + y);    println("width = "+ w+"\nheight = " + h);  }}

@@ -1,0 +1,1 @@
+size(300, 300);background(0);stroke(255);point((width/11)*1, height/2);point((width/11)*2, height/2);point((width/11)*3, height/2);point((width/11)*4, height/2);point((width/11)*5, height/2);point((width/11)*6, height/2);point((width/11)*7, height/2);point((width/11)*8, height/2);point((width/11)*9, height/2);point((width/11)*10, height/2);

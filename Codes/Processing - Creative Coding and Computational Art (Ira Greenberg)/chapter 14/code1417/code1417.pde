@@ -1,0 +1,1 @@
+public interface IGShape3D {  public void setVertices();  public Vector3D[] getVertices();  public void setTriangles();  public Triangle3D[] getTriangles();}

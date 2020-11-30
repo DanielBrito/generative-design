@@ -1,0 +1,1 @@
+public class MyFirstJavaProgram {  // constructor  public MyFirstJavaProgram(){   new MySecondJavaProgram("Creative Coder");  }	  // main method  public static void main(String[] args){    new MyFirstJavaProgram();  }}

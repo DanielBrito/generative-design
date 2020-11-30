@@ -1,0 +1,1 @@
+//load and center an imagesize(700, 500);PImage img1;img1 = loadImage("heidi.jpg");translate(width/2, height/2);image(img1, -img1.width/2, -img1.height/2);

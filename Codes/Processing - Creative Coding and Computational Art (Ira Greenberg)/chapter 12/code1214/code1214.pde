@@ -1,0 +1,1 @@
+color rectBackground = color(0, 0, 255);void setup(){  size(400, 400);  background(255);  rectMode(CENTER);}void draw(){  fill(rectBackground);  rect(width/2, height/2, 200, 200);}void keyPressed(){   rectBackground = color(255, 0, 0);}void keyReleased(){   rectBackground = color(0, 0, 255);}

@@ -1,0 +1,1 @@
+size(300, 300);background(0);stroke(255);for  (int i =1; i<11; i++){  point((width/11)*i, height/2);}

@@ -1,0 +1,1 @@
+private float getLightIntensity(Triangle3D t){    Vector3D lightView = new Vector3D();    lightView.setTo(lightSource);    lightView.subtract(t.v[0]);    Vector3D norm = t.v[0].getCrossProduct(t.v[1], t.v[2]);    float lightViewMag = lightView.getMagnitude();    return(lightView.getDotProduct(norm)/lightViewMag);}

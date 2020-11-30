@@ -1,0 +1,1 @@
+size(300, 400);background(loadImage("airport.jpg"));PImage img = loadImage("towers.jpg"); blend(img, 0, 0, 300, 400, 0, 0, 300, 400, SUBTRACT);

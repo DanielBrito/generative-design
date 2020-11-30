@@ -1,0 +1,1 @@
+size(400, 400);PImage img = loadImage("portrait.jpg");image(img, 0, 0);println("image method before = " + img.get(50, 50));println("function before = " + get(50, 50));image(img, -140, -140);println("image method after = " + img.get(50, 50));println("function after = " + get(50, 50));

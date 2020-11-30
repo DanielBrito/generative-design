@@ -1,0 +1,1 @@
+//Loading images with set()size(600, 400);background(245);PImage img2 = loadImage("kids.jpg");set(50, 50, img2);set(img2.width+100, 50, img2);

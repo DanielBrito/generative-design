@@ -1,0 +1,1 @@
+// blend() PImage method sketch// both PImages should be 300 x 400 pixels size(300, 400);PImage img1 = loadImage("airport.jpg");PImage img2 = loadImage("towers.jpg");img2.blend(img1, 0, 0, 300, 400, 0, 0, 300, 400, DARKEST);image(img2, 0, 0);

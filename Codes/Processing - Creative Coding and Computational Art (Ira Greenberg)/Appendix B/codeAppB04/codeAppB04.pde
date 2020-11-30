@@ -1,0 +1,1 @@
+color c1 = color(255, 255, 0, 127);println("c1 = " + c1);println("binary(c1)     =  " + binary(c1));println("show 32 bits   = 0" + binary(c1));println("binary(c1>>16) =                  " + binary(c1>>16));println("show 32 bits   = 00000000000000000" + binary(c1>>16));

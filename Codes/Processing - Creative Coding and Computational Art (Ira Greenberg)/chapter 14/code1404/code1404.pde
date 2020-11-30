@@ -1,0 +1,1 @@
+// Default OOP BirdBird b;void setup(){  size(400, 400, P3D);  noStroke();  b = new Bird();}void draw(){  background(150, 120, 255);  lights();  b.fly();}

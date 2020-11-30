@@ -1,0 +1,1 @@
+color c1 = color(255, 255, 255, 128);color c2 = color(255, 255, 255, 127);println ("c1 in binary = " + binary(c1));println ("c1 in decimal = " + c1);println ("-----------------------------------------------");println ("c2 in binary = " + binary(c2));println ("c2 in decimal = " + c2);

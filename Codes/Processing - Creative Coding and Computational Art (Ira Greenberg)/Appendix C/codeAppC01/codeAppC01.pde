@@ -1,0 +1,1 @@
+public class MyFirstJavaProgram {  // constructor  public MyFirstJavaProgram(){    System.out.println("Waaaaaz up World!");  }	  // main method  public static void main(String[] args){    new MyFirstJavaProgram();  }}

@@ -1,0 +1,1 @@
+// Java approach 2 extends the Java MouseAdapter classvoid setup(){  new MouseEventDemo();}class MouseEventDemo extends MouseAdapter {  //constructor   MouseEventDemo(){    addMouseListener(this);  }  public void mousePressed(MouseEvent e) {    println("Java MouseAdapter class example: mouse press detected");  }}

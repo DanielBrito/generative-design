@@ -1,0 +1,1 @@
+// Custom OOP Bird IIBird b;void setup(){  size(400, 400, P3D);  noStroke();  b = new Bird(0, 0, -1500, 600, 50);  b.setColor(color(200, 20, 50), color(10, 255, 50, 170));}void draw(){  background(150, 120, 255);  lights();  b.setFlight(100, 100, 2200, 5, 3, 20);  b.setWingSpeed(.6);  b.setRotSpeed(.5);  b.fly();}

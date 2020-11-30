@@ -1,0 +1,1 @@
+size(300, 400);background(loadImage("airport.jpg"));PImage img = loadImage("towers.jpg");int w = width/6;int h = height/8;for (int i=0; i<width; i+=w){  for (int j=0; j<height; j+=h){    blend(img, 0, 0, width, height, i, j, w, h, SUBTRACT);  }}

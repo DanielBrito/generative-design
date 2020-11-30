@@ -1,0 +1,1 @@
+public void setAmbientLight(float[] ambCol) {  ambientLt = ambCol;}

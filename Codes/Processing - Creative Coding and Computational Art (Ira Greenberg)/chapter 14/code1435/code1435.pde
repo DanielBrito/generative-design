@@ -1,0 +1,1 @@
+// updated render() methodpublic void render(IGShape3D shape){    Triangle3D[]t = shape.getTriangles();    rotXYZ(t);    for (int i=0; i<t.length; i++){      if (isFaceVisible(t[i])){        project(t[i]);      }    }  }

@@ -1,0 +1,1 @@
+// blend() function with altered destination image coordinates// background image and PImage should be 300 x 400 pixels size(300, 400);background(loadImage("airport.jpg"));PImage img = loadImage("towers.jpg");blend(img, 0, 0, 300, 400, 0, 200, 300, 200, DARKEST);

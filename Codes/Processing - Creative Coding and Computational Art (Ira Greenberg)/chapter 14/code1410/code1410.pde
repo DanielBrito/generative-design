@@ -1,0 +1,1 @@
+public class Triangle3D{  public Vector3D[]v = new Vector3D[3];  public Triangle3D(){    v[0] = new Vector3D();    v[1] = new Vector3D();    v[2] = new Vector3D();  }  public Triangle3D(Vector3D v0, Vector3D v1, Vector3D v2){    v[0] = v0;    v[1] = v1;    v[2] = v2;  }}

@@ -1,0 +1,1 @@
+void setup(){  size(400, 400);  background(255);  strokeWeight(10);  fill(127);  rect(100, 50, 200, 300);}

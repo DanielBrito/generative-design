@@ -1,0 +1,1 @@
+size(300, 300);background(0);stroke(255);point(30, 150);point(60, 150);point(90, 150);point(120, 150);point(150, 150);point(180, 150);point(210, 150);point(240, 150);point(270, 150);

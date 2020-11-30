@@ -1,0 +1,1 @@
+// Mask the Sky size(600, 480);background(185, 185, 250);PImage img = loadImage("harbor2.jpg");PImage mask = loadImage("harbor2_mask.jpg");img.mask(mask);image(img, 0, 0, 600, 480);

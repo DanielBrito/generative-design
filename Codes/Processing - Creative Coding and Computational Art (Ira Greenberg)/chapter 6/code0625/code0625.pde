@@ -1,0 +1,1 @@
+size(300, 300);background(0);stroke(255);strokeWeight(5);beginShape(POINTS);vertex(50, 50);vertex(width-50, 50);vertex(width-50, height-50);vertex(50, height-50);vertex(width/2, height/2);endShape();

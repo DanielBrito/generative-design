@@ -1,0 +1,1 @@
+// GRAY filter// filter(GRAY)// image should be 600 x 450 pixelssize(600, 450);PImage img = loadImage("changsha2.jpg"); image(img, 0, 0);filter(GRAY);

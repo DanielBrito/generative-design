@@ -1,0 +1,1 @@
+//Example 2: accelerated motion using additionint w = 20;int h = 10;int x = 0;int y;float speed = .5;float acceleration;void setup(){  size(400, 400);   y = height/2;  frameRate(30);}void draw(){  background(255);  acceleration+=speed;  rect(x+=acceleration, y, w, h);}

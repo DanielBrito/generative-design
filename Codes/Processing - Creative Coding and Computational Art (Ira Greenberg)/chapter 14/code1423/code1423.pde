@@ -1,0 +1,1 @@
+public class MyController extends PApplet {  IG3D i;  Table t;  void setup(){    size(400, 400, P3D);    background(0);    lights();    noStroke();    fill(126, 63, 20);    translate(width/2, height/2);    rotateX(PI/-4);    rotateY(PI/8);    i = new IG3D(this);    t = new Table(200, 140, 100);    i.render(t);  }}

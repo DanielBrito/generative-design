@@ -1,0 +1,1 @@
+// Animation the Processing way// using Processing's draw() structureint x, xspd = 3;void setup(){  size(400, 400);  frameRate(30);}void draw(){  background(255);  rect(x, height/2, 10, 10);  x+=xspd;}

@@ -1,0 +1,1 @@
+//custom invert-version 2// condensed verison// image should be 600 x 400 pixelssize(600, 400);background(255);PImage img = loadImage("view.jpg"); image(img, 0, 0);loadPixels();for (int i =0; i< pixels.length; i++){  pixels[i] ^= 0xFFFFFF;}updatePixels();

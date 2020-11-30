@@ -1,0 +1,1 @@
+void setup(){  size(400, 400);  background(255);  drawRectangle(150, 150, 100, 100);}void drawRectangle(float x, float y, float w, float h){  rect(x, y, w, h);    }

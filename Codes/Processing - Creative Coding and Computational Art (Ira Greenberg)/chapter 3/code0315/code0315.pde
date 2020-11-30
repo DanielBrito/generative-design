@@ -1,0 +1,1 @@
+//sketch using magic numbers:size(200, 200);background(255);strokeWeight(5);stroke(20);fill(100);rect (50, 50, 100, 100); 

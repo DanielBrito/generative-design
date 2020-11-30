@@ -1,0 +1,1 @@
+// Severe BLUR filter // image should be 600 x 400 pixels size(600, 400);background(255);PImage img = loadImage("heidi.jpg"); image(img, 0, 0);filter(BLUR, 10);

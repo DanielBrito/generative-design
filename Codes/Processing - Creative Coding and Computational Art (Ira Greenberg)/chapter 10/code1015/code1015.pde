@@ -1,0 +1,1 @@
+// lerp()int a = 1;int b = 2;int steps = 5;float interpolationValue = 1.0/steps;for (int i=1; i<steps; i++){  println(lerp(a, b, interpolationValue*i));}

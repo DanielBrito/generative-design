@@ -1,0 +1,1 @@
+int ballCount = 15;println(ballCount);ballCount = 10;println(ballCount);ballCount = 100;println(ballCount);

@@ -1,0 +1,1 @@
+public class MyController extends PApplet {  IG3D i;  Cube c;  void setup(){    size(400, 400);    noStroke();    fill(127, 255, 0);    i = new IG3D(this);    c = new Cube(100, 100, 100);  }    void draw(){    background(0);    translate(width/2, height/2);    i.render(c);  }}

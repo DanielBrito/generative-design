@@ -1,0 +1,1 @@
+// hidden face removal  private boolean isFaceVisible(Triangle3D t){    boolean isVisible = false;    Vector3D cameraView = new Vector3D(t.v[0].x, t.v[0].y, viewDistance);    Vector3D norm = t.v[0].getCrossProduct(t.v[1], t.v[2]);    if (cameraView.getDotProduct(norm)>0){      isVisible = true;    }     return isVisible;  }

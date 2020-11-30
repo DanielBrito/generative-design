@@ -1,0 +1,1 @@
+String announceDate = "I'm writing this on: ";String currentMonth = "March ";int currentDay = 5;String currentDayName = "Sunday";int currentYear = 2006;String comma = ", ";print(announceDate);println(currentDayName);print(currentMonth);print(currentDay);print(comma);println(currentYear);
