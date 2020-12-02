@@ -1,14 +1,18 @@
 # CODES
 
-* [Generative Design - Visualize, Program, and Create with Processing (Hartmut Bohnacker)](https://www.amazon.com.br/Generative-Design-Visualize-Program-Processing/dp/1616890770)
+* [Blender Scripting](https://github.com/DanielBrito/monografia/tree/main/Scripts%20Experimentais)
 
-* [Processing - A Handbook for Visual Designers and Artists (Casey Reas, Ben Fry)](https://www.amazon.com/Processing-Programming-Handbook-Designers-Artists/dp/0262182629)
+* [Creative Coding Experiments](https://github.com/DanielBrito/creative-coding-experiments)
+
+---
+
+* [Generative Design - Visualize, Program, and Create with Processing (Hartmut Bohnacker)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Generative%20Design%20-%20Visualize%2C%20Program%2C%20and%20Create%20with%20Processing%20(Hartmut%20Bohnacker))
+
+* [Processing - A Handbook for Visual Designers and Artists (Casey Reas, Ben Fry)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Processing%20-%20A%20Handbook%20for%20Visual%20Designers%20and%20Artists%20(Casey%20Reas%2C%20Ben%20Fry))
 
 * [Learning Processing: Programming Images, Animation, and Interaction (The Coding Train)](https://github.com/DanielBrito/learning-processing)
 
 * [The Nature of Code - Examples (Daniel Shiffman)](https://github.com/nature-of-code/noc-examples-processing)
-
-* [Creative coding experiments (Daniel Brito)](https://github.com/DanielBrito/creative-coding-experiments)
 
 * [Code Bullet Projects](https://github.com/Code-Bullet?tab=repositories)
 
@@ -17,3 +21,6 @@
 * [Generative Art - A Practical Guide Using Processing (Matt Pearson)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Generative%20Art%20-%20A%20Practical%20Guide%20Using%20Processing%20(Matt%20Pearson))
 
 * [Cinder Samples](https://github.com/cinder/Cinder/tree/master/samples)
+
+* [Processing - Creative Coding and Computational Art (Ira Greenberg)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Processing%20-%20Creative%20Coding%20and%20Computational%20Art%20(Ira%20Greenberg))
+
