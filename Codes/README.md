@@ -1,6 +1,6 @@
 # CODES
 
-* [Blender Scripting](https://github.com/DanielBrito/monografia/tree/main/Scripts%20Experimentais)
+* [Blender Scripting Experiments](https://github.com/DanielBrito/blender-scripting)
 
 * [Creative Coding Experiments](https://github.com/DanielBrito/creative-coding-experiments)
 
