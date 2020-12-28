@@ -1,16 +1,20 @@
 # CODES
 
+## Personal
+
 * [Blender Scripting Experiments](https://github.com/DanielBrito/blender-scripting)
 
 * [Creative Coding Experiments](https://github.com/DanielBrito/creative-coding-experiments)
 
+* [Learning Processing](https://github.com/DanielBrito/learning-processing)
+
 ---
+
+## Third-party
 
 * [Generative Design - Visualize, Program, and Create with Processing (Hartmut Bohnacker)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Generative%20Design%20-%20Visualize%2C%20Program%2C%20and%20Create%20with%20Processing%20(Hartmut%20Bohnacker))
 
 * [Processing - A Handbook for Visual Designers and Artists (Casey Reas, Ben Fry)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Processing%20-%20A%20Handbook%20for%20Visual%20Designers%20and%20Artists%20(Casey%20Reas%2C%20Ben%20Fry))
-
-* [Learning Processing: Programming Images, Animation, and Interaction (The Coding Train)](https://github.com/DanielBrito/learning-processing)
 
 * [The Nature of Code - Examples (Daniel Shiffman)](https://github.com/nature-of-code/noc-examples-processing)
 
