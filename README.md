@@ -1,6 +1,6 @@
-# Generative Design
+# :art: Generative Design
 
-I discovered the term ***generative design*** by accident, when I was surfing on Instagram and I saw an amazing image that was created using this technique. Then, I started looking for articles, videos, and books, to learn more about it.
+I bumped on the term ***Generative Design*** by accident, when I was surfing on Instagram, and I saw an amazing image that was created using this technique. Then, I started looking for articles, videos, and books, to learn more about it.
 
 Nowadays, I carry an increasing appreciation for this field, since I also consider myself a visual artist.
 
@@ -8,7 +8,7 @@ Therefore, I would like to share some of the content that I've been [creating](h
 
 - [Books](https://github.com/DanielBrito/generative-design/tree/master/Books)
 - [Articles](https://github.com/DanielBrito/generative-design/tree/master/Articles)
-- [Posts](https://github.com/DanielBrito/generative-design/tree/master/Posts)
+- [Blogs](https://github.com/DanielBrito/generative-design/tree/master/Posts)
 - [Codes](https://github.com/DanielBrito/generative-design/tree/master/Codes)
 - [Videos](https://github.com/DanielBrito/generative-design/tree/master/Videos)
 - [Websites](https://github.com/DanielBrito/generative-design/tree/master/Websites)
