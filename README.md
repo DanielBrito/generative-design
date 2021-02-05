@@ -15,7 +15,7 @@ Therefore, I would like to share some of the content that I've been [creating](h
 
 ___
 
-## Definition (Wikipedia)
+## :mag: Definition (Wikipedia)
 
 <div align="center">
 	<img src="https://2.bp.blogspot.com/-27_xMx0HSq0/Wn88xGVrYGI/AAAAAAAAQ3I/mU9TpaKnHqc39cE4uGcUp9cjLKxtHE8ZgCLcBGAs/s400/generative%2Bdesign.png" width="600">
