@@ -1,6 +1,6 @@
 # :art: Generative Design
 
-I bumped on the term ***Generative Design*** by accident, when I was surfing on Instagram, and I saw an amazing image that was created using this technique. Then, I started looking for articles, videos, and books, to learn more about it.
+I bumped into ***Generative Design*** by accident, when I was surfing on Instagram, and I saw an amazing image that was created using this technique. Then, I started looking for articles, videos, and books, to learn more about it.
 
 Nowadays, I carry an increasing appreciation for this field, since I also consider myself a visual artist.
 
