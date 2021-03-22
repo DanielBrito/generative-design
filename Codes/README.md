@@ -4,6 +4,8 @@
 
 * [Blender Scripting Experiments](https://github.com/DanielBrito/blender-scripting)
 
+* [College Dissertation](https://github.com/DanielBrito/monografia)
+
 * [Creative Coding Experiments](https://github.com/DanielBrito/creative-coding-experiments)
 
 * [Learning Processing](https://github.com/DanielBrito/learning-processing)
