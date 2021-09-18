@@ -1,4 +1,4 @@
-<h1 align="center">📝 BLOG</h1>
+<h1 align="center">📝 BLOGS</h1>
 
 - [The problem of learning](https://medium.com/generative-design/generative-design-introduction-64fb2db38e1) (Danil Nagy)
 

@@ -10,8 +10,6 @@
 
 - [Learning Processing](https://github.com/DanielBrito/learning-processing)
 
----
-
 <br/>
 
 <h2>👥 Third-party</h2>
