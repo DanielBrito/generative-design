@@ -1,6 +1,6 @@
 <h1 align="center">📚 BOOKS</h1>
 
-<p align="center" title="Status">🕒 To Read | 👀 Reading | ✅ Read</p> <br></br>
+<p align="center" title="Status">🕒 To Read | 👀 Reading | ✅ Read</p> <br/>
 
 ## 🕒 [Algorithms for Visual Designers (Kostas Terzidis)](https://www.amazon.com.br/Algorithms-Visual-Design-Processing-Language/dp/0470375485)
 

@@ -8,7 +8,7 @@ Therefore, I would like to share some of the content that I've been [creating](h
 
 - [Books](https://github.com/DanielBrito/generative-design/tree/master/Books)
 - [Articles](https://github.com/DanielBrito/generative-design/tree/master/Articles)
-- [Blogs](https://github.com/DanielBrito/generative-design/tree/master/Posts)
+- [Blogs](https://github.com/DanielBrito/generative-design/tree/master/Blogs)
 - [Codes](https://github.com/DanielBrito/generative-design/tree/master/Codes)
 - [Videos](https://github.com/DanielBrito/generative-design/tree/master/Videos)
 - [Websites](https://github.com/DanielBrito/generative-design/tree/master/Websites)
@@ -17,7 +17,7 @@ Therefore, I would like to share some of the content that I've been [creating](h
 
 <br/>
 
-<h2 align="center">🔎 Definition (Wikipedia)</h2>
+<h2>🔎 Definition (Wikipedia)</h2>
 
 <br/>
 

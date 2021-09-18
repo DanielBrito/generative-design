@@ -1,6 +1,6 @@
 <h1 align="center">💻 CODES</h1>
 
-<h2 align="center">👤 Personal</h2>
+<h2>👤 Personal</h2>
 
 - [Blender Scripting Experiments](https://github.com/DanielBrito/blender-scripting)
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-<h2 align="center">👥 Third-party</h2>
+<h2>👥 Third-party</h2>
 
 - [Generative Design - Visualize, Program, and Create with Processing](https://github.com/DanielBrito/generative-design/tree/master/Codes/generative_design_visualize_program_and_create_with_processing__hartmut_bohnacker) (Hartmut Bohnacker)
 
