@@ -1,32 +1,33 @@
-# CODES
+<h1 align="center">💻 CODES</h1>
 
-## Personal
+<h2 align="center">👤 Personal</h2>
 
-* [Blender Scripting Experiments](https://github.com/DanielBrito/blender-scripting)
+- [Blender Scripting Experiments](https://github.com/DanielBrito/blender-scripting)
 
-* [College Dissertation](https://github.com/DanielBrito/monografia)
+- [College Dissertation](https://github.com/DanielBrito/monografia)
 
-* [Creative Coding Experiments](https://github.com/DanielBrito/creative-coding-experiments)
+- [Creative Coding Experiments](https://github.com/DanielBrito/creative-coding-experiments)
 
-* [Learning Processing](https://github.com/DanielBrito/learning-processing)
+- [Learning Processing](https://github.com/DanielBrito/learning-processing)
 
 ---
 
-## Third-party
+<br/>
 
-* [Generative Design - Visualize, Program, and Create with Processing (Hartmut Bohnacker)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Generative%20Design%20-%20Visualize%2C%20Program%2C%20and%20Create%20with%20Processing%20(Hartmut%20Bohnacker))
+<h2 align="center">👥 Third-party</h2>
 
-* [Processing - A Handbook for Visual Designers and Artists (Casey Reas, Ben Fry)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Processing%20-%20A%20Handbook%20for%20Visual%20Designers%20and%20Artists%20(Casey%20Reas%2C%20Ben%20Fry))
+- [Generative Design - Visualize, Program, and Create with Processing](https://github.com/DanielBrito/generative-design/tree/master/Codes/generative_design_visualize_program_and_create_with_processing__hartmut_bohnacker) (Hartmut Bohnacker)
 
-* [The Nature of Code - Examples (Daniel Shiffman)](https://github.com/nature-of-code/noc-examples-processing)
+- [Processing - A Handbook for Visual Designers and Artists](https://github.com/DanielBrito/generative-design/tree/master/Codes/processing_a_handbook_for_visual_designers_and_artists__casey_reas) (Casey Reas)
 
-* [Code Bullet Projects](https://github.com/Code-Bullet?tab=repositories)
+- [The Nature of Code - Examples](https://github.com/nature-of-code/noc-examples-processing) (Daniel Shiffman)
 
-* [Processing Examples](https://processing.org/examples/)
+- [Generative Art - A Practical Guide Using Processing](https://github.com/DanielBrito/generative-design/tree/master/Codes/generative_art_a_practical_guide_using_processing__matt_pearson) (Matt Pearson)
 
-* [Generative Art - A Practical Guide Using Processing (Matt Pearson)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Generative%20Art%20-%20A%20Practical%20Guide%20Using%20Processing%20(Matt%20Pearson))
+- [Processing - Creative Coding and Computational Art](https://github.com/DanielBrito/generative-design/tree/master/Codes/processing_creative_coding_and_computational_art__ira_greenberg) Ira Greenberg
 
-* [Cinder Samples](https://github.com/cinder/Cinder/tree/master/samples)
+- [Code Bullet Projects](https://github.com/Code-Bullet)
 
-* [Processing - Creative Coding and Computational Art (Ira Greenberg)](https://github.com/DanielBrito/generative-design/tree/master/Codes/Processing%20-%20Creative%20Coding%20and%20Computational%20Art%20(Ira%20Greenberg))
+- [Processing Examples](https://processing.org/examples/)
 
+- [Cinder Samples](https://github.com/cinder/Cinder/tree/master/samples)
