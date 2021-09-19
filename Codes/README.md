@@ -22,7 +22,9 @@
 
 - [Generative Art - A Practical Guide Using Processing](https://github.com/DanielBrito/generative-design/tree/master/Codes/generative_art_a_practical_guide_using_processing__matt_pearson) (Matt Pearson)
 
-- [Processing - Creative Coding and Computational Art](https://github.com/DanielBrito/generative-design/tree/master/Codes/processing_creative_coding_and_computational_art__ira_greenberg) Ira Greenberg
+- [Processing - Creative Coding and Computational Art](https://github.com/DanielBrito/generative-design/tree/master/Codes/processing_creative_coding_and_computational_art__ira_greenberg) (Ira Greenberg)
+
+- [The Computational Beauty of Nature](https://github.com/DanielBrito/generative-design/tree/master/Codes/the_computational_beauty_of_nature__garry_flake) (Ira Greenberg)
 
 - [Code Bullet Projects](https://github.com/Code-Bullet)
 
