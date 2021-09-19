@@ -1,6 +1,6 @@
 <h1 align="center">📚 BOOKS</h1>
 
-<p align="center" title="Status">🕒 To Read | 👀 Reading | ✅ Read</p> <br/>
+<p align="center" title="Status">🕒 To Read | 👀 Reading | ✅ Finished</p> <br/>
 
 ## 🕒 [Algorithms for Visual Designers](https://www.amazon.com.br/Algorithms-Visual-Design-Processing-Language/dp/0470375485) (Kostas Terzidis)
 
@@ -76,7 +76,7 @@ _The following course notes are adapted from the book, Processing for Visual Art
 
 ## 🕒 [Programming Interactivity](https://www.amazon.com/Programming-Interactivity-Designers-Processing-openFrameworks/dp/144931144X) (Joshua Noble)
 
-_Ready to create rich interactive experiences with your artwork, designs, or prototypes? This is the ideal place to start. With this hands-on guide, you’ll explore several themes in interactive art and design—including 3D graphics, sound, physical interaction, computer vision, and geolocation—and learn the basic programming and electronics concepts you need to implement them. No previous experience is necessary._
+_Ready to create rich interactive experiences with your artwork, designs, or prototypes? This is the ideal place to start. With this hands-on guide, you’ll explore several themes in interactive art and design - including 3D graphics, sound, physical interaction, computer vision, and geolocation - and learn the basic programming and electronics concepts you need to implement them. No previous experience is necessary._
 
 _You’ll get a complete introduction to three free tools created specifically for artists and designers: the Processing programming language, the Arduino microcontroller, and the openFrameworks toolkit. You’ll also find working code samples you can use right away, along with the background and technical information you need to design, program, and build your own projects._
 

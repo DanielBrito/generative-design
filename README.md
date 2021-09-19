@@ -6,8 +6,8 @@ Nowadays, I carry an increasing appreciation for this field, since I also consid
 
 Therefore, I would like to share some of the content that I've been [creating](https://github.com/DanielBrito/creative-coding-experiments) and finding for those who may be also interested in this intersection between visual arts and programming:
 
-- [Books](https://github.com/DanielBrito/generative-design/tree/master/Books)
 - [Articles](https://github.com/DanielBrito/generative-design/tree/master/Articles)
+- [Books](https://github.com/DanielBrito/generative-design/tree/master/Books)
 - [Blogs](https://github.com/DanielBrito/generative-design/tree/master/Blogs)
 - [Codes](https://github.com/DanielBrito/generative-design/tree/master/Codes)
 - [Videos](https://github.com/DanielBrito/generative-design/tree/master/Videos)

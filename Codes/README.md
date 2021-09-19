@@ -26,6 +26,10 @@
 
 - [The Computational Beauty of Nature](https://github.com/DanielBrito/generative-design/tree/master/Codes/the_computational_beauty_of_nature__garry_flake) (Ira Greenberg)
 
+- [Game of Life in ReactJS](https://github.com/DanielBrito/generative-design/tree/master/Codes/game_of_life_in_react)
+
+- [Game of Life in C++](https://github.com/DanielBrito/generative-design/blob/master/Codes/GameOfLife.cpp)
+
 - [Code Bullet Projects](https://github.com/Code-Bullet)
 
 - [Processing Examples](https://processing.org/examples/)

@@ -1,8 +1,8 @@
 <h1 align="center">📃 ARTICLES</h1>
 
-<p align="center" title="Status">🕒 To Read | 👀 Reading | ✅ Read</p> <br/>
+<p align="center" title="Status">🕒 To Read | 👀 Reading | ✅ Finished</p> <br/>
 
-## 🕒 [As Linguagens de Programação para as Artes - Metodologias de Ensino-Aprendizagem Adaptadas (Madalena Ribeiro)](./Files/as_linguagens_de_programacao_para_as_artes__madalena_ribeiro.pdf)
+## 🕒 [As Linguagens de Programação para as Artes - Metodologias de Ensino-Aprendizagem Adaptadas](./Files/as_linguagens_de_programacao_para_as_artes__madalena_ribeiro.pdf) (Madalena Ribeiro)
 
 _Resumo: Atualmente, as linguagens de programação são usadas por pessoas com formação em domínios cada vez mais diversos e distintos do habitual, tendo já chegado ao domínio das artes. A linguagem Processing, que tem um cariz visual e que possibilita o desenvolvimento de aplicações/performances com elementos visuais e sonoros, foi mesmo projetada para ser usada por artistas. Contudo, a preparação prévia e a sensibilidade do público-alvo desta linguagem, enquanto aprendizes, é bastante distinta da preparação dos alunos comuns de linguagem de programação. Por esse motivo, é aqui proposto um conjunto de metodologias de ensino/aprendizagem adaptadas, no sentido de criar entusiasmo na aprendizagem e atingir um êxito efetivo._
 
