@@ -8,7 +8,7 @@
 
 - [Creative Coding Experiments](https://github.com/DanielBrito/creative-coding-experiments)
 
-- [Learning Processing](https://github.com/DanielBrito/learning-processing)
+- [Learning Processing](https://github.com/DanielBrito/processing-studies)
 
 <br/>
 
