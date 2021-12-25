@@ -6,7 +6,7 @@ _As the first book to share the necessary algorithms for creating code to experi
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/61WWfTVzLYL._SX373_BO1,204,203,200_.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/61WWfTVzLYL._SX373_BO1,204,203,200_.jpg" width="400"></div>
 
 <br></br>
 
@@ -16,7 +16,7 @@ _Generative design is a revolutionary new method of creating artwork, models, an
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/51loNKt4HqL._SX358_BO1,204,203,200_.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/51loNKt4HqL._SX358_BO1,204,203,200_.jpg" width="400"></div>
 
 <br></br>
 
@@ -30,7 +30,7 @@ _**About the Book:** Generative Art presents both the techniques and the beauty 
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/41Z3sTjk1zL.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/41Z3sTjk1zL.jpg" width="400"></div>
 
 <br></br>
 
@@ -40,7 +40,7 @@ _Processing opened up the world of programming to artists, designers, educators,
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/41GY1Dj2X2L.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/41GY1Dj2X2L.jpg" width="400"></div>
 
 <br></br>
 
@@ -54,7 +54,7 @@ _The author teaches computer graphics at NYU's Tisch School of the Arts, and his
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/51r-HbQtUeL.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/51r-HbQtUeL.jpg" width="400"></div>
 
 <br></br>
 
@@ -64,7 +64,7 @@ _The visual arts are rapidly changing as media moves into the web, mobile device
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/51GxY%2BzTcqL._SX376_BO1,204,203,200_.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/51GxY%2BzTcqL._SX376_BO1,204,203,200_.jpg" width="400"></div>
 
 <br></br>
 
@@ -74,7 +74,7 @@ _If you're interested in creating cutting-edge code-based art and animations, yo
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/61huIFzLI4L.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/61huIFzLI4L.jpg" width="400"></div>
 
 <br></br>
 
@@ -84,7 +84,7 @@ _The following course notes are adapted from the book, Processing for Visual Art
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/513tC6es6FL._SX351_BO1,204,203,200_.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/513tC6es6FL._SX351_BO1,204,203,200_.jpg" width="400"></div>
 
 <br></br>
 
@@ -96,7 +96,7 @@ _You’ll get a complete introduction to three free tools created specifically f
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/5131mwA4JRL._SX258_BO1,204,203,200_.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/5131mwA4JRL._SX258_BO1,204,203,200_.jpg" width="400"></div>
 
 <br></br>
 
@@ -106,7 +106,7 @@ _How can we capture the unpredictable evolutionary and emergent properties of na
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/81RU7XGMqgL._SL1500_.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/81RU7XGMqgL._SL1500_.jpg" width="400"></div>
 
 <br></br>
 
@@ -118,7 +118,7 @@ _Each of the book's parts can be read independently, enabling even the casual re
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/51bfx8ilf3L._SX455_BO1,204,203,200_.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/51bfx8ilf3L._SX455_BO1,204,203,200_.jpg" width="400"></div>
 
 <br></br>
 
@@ -132,4 +132,4 @@ _The book begins with studies of organic magnitude, the rate of growth, cellular
 
 <br>
 
-<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/41n+ygvf6RL._SX313_BO1,204,203,200_.jpg" width="300"></div>
+<div align="center"><img src="https://images-na.ssl-images-amazon.com/images/I/41n+ygvf6RL._SX313_BO1,204,203,200_.jpg" width="400"></div>
