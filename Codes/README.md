@@ -1,6 +1,6 @@
 <h1 align="center">💻 CODES</h1>
 
-<h2>👤 Personal</h2>
+## 👤 Personal
 
 - [Blender Scripting Experiments](https://github.com/DanielBrito/blender-scripting)
 
@@ -8,11 +8,9 @@
 
 - [Creative Coding Experiments](https://github.com/DanielBrito/creative-coding-experiments)
 
-- [Learning Processing](https://github.com/DanielBrito/processing-studies)
+<br>
 
-<br/>
-
-<h2>👥 Third-party</h2>
+## 👥 Third-party
 
 - [Generative Design - Visualize, Program, and Create with Processing](https://github.com/DanielBrito/generative-design/tree/master/Codes/generative_design_visualize_program_and_create_with_processing__hartmut_bohnacker) (Hartmut Bohnacker)
 
@@ -26,12 +24,12 @@
 
 - [The Computational Beauty of Nature](https://github.com/DanielBrito/generative-design/tree/master/Codes/the_computational_beauty_of_nature__garry_flake) (Ira Greenberg)
 
-- [Game of Life in ReactJS](https://github.com/DanielBrito/generative-design/tree/master/Codes/game_of_life_in_react)
+- [Game of Life in ReactJS](https://github.com/DanielBrito/generative-design/tree/master/Codes/game_of_life/game_of_life_in_react) (Ben Awad)
 
-- [Game of Life in C++](https://github.com/DanielBrito/generative-design/blob/master/Codes/GameOfLife.cpp)
+- [Game of Life in C++](https://github.com/DanielBrito/generative-design/blob/master/Codes/game_of_life/GameOfLife.cpp) (Mario Talevski)
 
-- [Code Bullet Projects](https://github.com/Code-Bullet)
+- [Creative Coding Projects](https://github.com/Code-Bullet) (Code Bullet)
 
-- [Processing Examples](https://processing.org/examples/)
+- [Processing Examples](https://processing.org/examples/) (Various)
 
-- [Cinder Samples](https://github.com/cinder/Cinder/tree/master/samples)
+- [Cinder Samples](https://github.com/cinder/Cinder/tree/master/samples) (Various)
