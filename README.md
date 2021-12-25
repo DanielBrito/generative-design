@@ -13,7 +13,7 @@ Therefore, I would like to share some of the content that I've been [creating](h
 - [Videos](https://github.com/DanielBrito/generative-design/tree/master/Videos)
 - [Websites](https://github.com/DanielBrito/generative-design/tree/master/Websites)
 
----
+<br>
 
 <h2>🔎 Definition (Wikipedia)</h2>
 

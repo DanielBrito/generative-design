@@ -1,4 +1,4 @@
-<h1 align="center">🎥 VIDEOS</h1>
+<h1 align="center">🎥 Videos</h1>
 
 ## 📺 Channels
 

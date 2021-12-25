@@ -1,4 +1,4 @@
-<h1 align="center">💻 CODES</h1>
+<h1 align="center">💻 Codes</h1>
 
 ## 👤 Personal
 

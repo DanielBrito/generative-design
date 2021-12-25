@@ -1,4 +1,4 @@
-<h1 align="center">🌐 WEBSITES</h1>
+<h1 align="center">🌐 Websites</h1>
 
 - [Generative Gestaltung](http://www.generative-gestaltung.de/2/)
 
