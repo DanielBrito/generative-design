@@ -8,7 +8,7 @@ _As the first book to share the necessary algorithms for creating code to experi
 
 <br></br>
 
-## ✅ [Generative Design - Visualize, Program, and Create with Processing](https://www.amazon.com.br/Generative-Design-Visualize-Program-Processing/dp/1616890770) (Hartmut Bohnacker)
+### [Generative Design - Visualize, Program, and Create with Processing](https://www.amazon.com.br/Generative-Design-Visualize-Program-Processing/dp/1616890770) (Hartmut Bohnacker)
 
 _Generative design is a revolutionary new method of creating artwork, models, and animations from sets of rules, or algorithms. By using accessible programming languages such as Processing, artists and designers are producing extravagant, crystalline structures that can form the basis of anything from patterned textiles and typography to lighting, scientific diagrams, sculptures, films, and even fantastical buildings. Opening with a gallery of thirty-five illustrated case studies, Generative Design takes users through specific, practical instructions on how to create their own visual experiments by combining simple-to-use programming codes with basic design principles. A detailed handbook of advanced strategies provides visual artists with all the tools to achieve proficiency. Both a how-to manual and a showcase for recent work in this exciting new field, Generative Design is the definitive study and reference book that designers have been waiting for._
 
@@ -16,7 +16,7 @@ _Generative design is a revolutionary new method of creating artwork, models, an
 
 <br></br>
 
-## ✅ [Generative Art: A Practical Guide Using Processing](https://www.amazon.com.br/Generative-Art-Practical-Guide-Processing/dp/1935182625) (Matt Pearson)
+### [Generative Art: A Practical Guide Using Processing](https://www.amazon.com.br/Generative-Art-Practical-Guide-Processing/dp/1935182625) (Matt Pearson)
 
 _**Summary:** Generative Art presents both the technique and the beauty of algorithmic art. The book includes high-quality examples of generative art, along with the specific programmatic steps author and artist Matt Pearson followed to create each unique piece using the Processing programming language._
 
@@ -48,7 +48,7 @@ _The author teaches computer graphics at NYU's Tisch School of the Arts, and his
 
 <br></br>
 
-## ✅ [Processing: A Programming Handbook for Visual Designers and Artists](https://www.amazon.com.br/Processing-Programming-Handbook-Designers-Artists/dp/026202828X) (Casey Reas)
+### [Processing: A Programming Handbook for Visual Designers and Artists](https://www.amazon.com.br/Processing-Programming-Handbook-Designers-Artists/dp/026202828X) (Casey Reas)
 
 _The visual arts are rapidly changing as media moves into the web, mobile devices, and architecture. When designers and artists learn the basics of writing software, they develop a new form of literacy that enables them to create new media for the present, and to imagine future media that are beyond the capacities of current software tools. This book introduces this new literacy by teaching computer programming within the context of the visual arts. It offers a comprehensive reference and text for Processing, an open-source programming language that can be used by students, artists, designers, architects, researchers, and anyone who wants to program images, animation, and interactivity. Written by Processing's cofounders, the book offers a definitive reference for students and professionals. Tutorial chapters make up the bulk of the book; advanced professional projects from such domains as animation, performance, and installation are discussed in interviews with their creators._
 
@@ -56,7 +56,7 @@ _The visual arts are rapidly changing as media moves into the web, mobile device
 
 <br></br>
 
-## ✅ [Processing: Creative Coding and Computational Art](https://www.amazon.com.br/Processing-Creative-Coding-Computational-Art/dp/159059617X) (Ira Greenberg)
+### [Processing: Creative Coding and Computational Art](https://www.amazon.com.br/Processing-Creative-Coding-Computational-Art/dp/159059617X) (Ira Greenberg)
 
 _If you're interested in creating cutting-edge code-based art and animations, you've come to the right place! Processing is a revolutionary open source programming language and environment designed to bridge the gap between programming and art, allowing non-programmers to learn programming fundamentals as easily as possible, and empowering anyone to produce beautiful creations using math patterns. With the software freely available, Processing provides an accessible alternative to using Flash for creative coding and computational artboth on and off the Web. This book is written especially for artists, designers, and other creative professionals and students exploring code art, graphics programming, and computational aesthetics. The book provides a solid and comprehensive foundation in programming, including object-oriented principles, and introduces you to the easy-to-grasp Processing language, so no previous coding experience is necessary. The book then goes through using Processing to code lines, curves, shapes, and motion, continuing to the point where you'll have mastered Processing and can really start to unleash your creativity with realistic physics, interactivity, and 3D! In the final chapter, you'll even learn how to extend your Processing skills by working directly with the powerful Java programming languagethe language Processing itself is built with._
 
