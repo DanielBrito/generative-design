@@ -1,4 +1,4 @@
-<h1 align="center">🎨 GENERATIVE DESIGN</h1>
+<h1 align="center">🎨 Generative Design</h1>
 
 I discovered the term **_Generative Design_** by accident, when I was surfing on Instagram, and I saw an amazing image that was created using this technique. Then, I started looking for articles, videos, and books, to learn more about it.
 
