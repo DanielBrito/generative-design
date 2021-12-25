@@ -1,8 +1,6 @@
-<h1 align="center">📚 BOOKS</h1>
+<h1 align="center">📚 Books</h1>
 
-<p align="center" title="Status">🕒 To Read | 👀 Reading | ✅ Finished</p> <br/>
-
-## 🕒 [Algorithms for Visual Designers](https://www.amazon.com.br/Algorithms-Visual-Design-Processing-Language/dp/0470375485) (Kostas Terzidis)
+### [Algorithms for Visual Designers](https://www.amazon.com.br/Algorithms-Visual-Design-Processing-Language/dp/0470375485) (Kostas Terzidis)
 
 _As the first book to share the necessary algorithms for creating code to experiment with design problems in the processing language, this book offers a series of generic procedures that can function as building blocks and encourages you to then use those building blocks to experiment, explore, and channel your thoughts, ideas, and principles into potential solutions. The book covers such topics as structured shapes, solid geometry, networking and databases, physical computing, image processing, graphic user interfaces, and more._
 
@@ -30,7 +28,7 @@ _**About the Book:** Generative Art presents both the techniques and the beauty 
 
 <br></br>
 
-## 🕒 [Getting Started with Processing: A Hands-On Introduction to Making Interactive Graphics](https://www.amazon.com/Getting-Started-Processing-Hands-Introduction/dp/1457187086) (Casey Reas)
+### [Getting Started with Processing: A Hands-On Introduction to Making Interactive Graphics](https://www.amazon.com/Getting-Started-Processing-Hands-Introduction/dp/1457187086) (Casey Reas)
 
 _Processing opened up the world of programming to artists, designers, educators, and beginners. This short book gently introduces the core concepts of computer programming and working with Processing. Written by the co-founders of the Processing project, Reas and Fry, Getting Started with Processing shows you how easy it is to make software and systems with interactive graphics. If you're an artist looking to develop interactive graphics programs or a programmer on your way to becoming an artist, this book will take you where you want to go. Updated with new material on graphics manipulation, data, and for the latest version of Processing._
 
@@ -38,7 +36,7 @@ _Processing opened up the world of programming to artists, designers, educators,
 
 <br></br>
 
-## 🕒 [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.amazon.com/Learning-Processing-Beginners-Programming-Interaction/dp/0123736021) (Daniel Shiffman)
+### [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.amazon.com/Learning-Processing-Beginners-Programming-Interaction/dp/0123736021) (Daniel Shiffman)
 
 _The free, open-source Processing programming language environment was created at MIT for people who want to develop images, animation, and sound. Based on the ubiquitous Java, it provides an alternative to daunting languages and expensive proprietary software._
 
@@ -66,7 +64,7 @@ _If you're interested in creating cutting-edge code-based art and animations, yo
 
 <br></br>
 
-## 🕒 [Processing For Visual Artists](./Files/processing_for_visual_artists.pdf) (Andrew Glassner)
+### [Processing For Visual Artists](./Files/processing_for_visual_artists.pdf) (Andrew Glassner)
 
 _The following course notes are adapted from the book, Processing for Visual Artists: How To Create Expressive Images and Interactive Art, by Andrew Glassner, published by AK Peters (2010)._
 
@@ -74,7 +72,7 @@ _The following course notes are adapted from the book, Processing for Visual Art
 
 <br></br>
 
-## 🕒 [Programming Interactivity](https://www.amazon.com/Programming-Interactivity-Designers-Processing-openFrameworks/dp/144931144X) (Joshua Noble)
+### [Programming Interactivity](https://www.amazon.com/Programming-Interactivity-Designers-Processing-openFrameworks/dp/144931144X) (Joshua Noble)
 
 _Ready to create rich interactive experiences with your artwork, designs, or prototypes? This is the ideal place to start. With this hands-on guide, you’ll explore several themes in interactive art and design - including 3D graphics, sound, physical interaction, computer vision, and geolocation - and learn the basic programming and electronics concepts you need to implement them. No previous experience is necessary._
 
@@ -84,7 +82,7 @@ _You’ll get a complete introduction to three free tools created specifically f
 
 <br></br>
 
-## 🕒 [The Nature of Code: Simulating Natural Systems with Processing](https://www.amazon.com.br/Nature-Code-Simulating-Natural-Processing/dp/0985930802) (Daniel Shiffman)
+### [The Nature of Code: Simulating Natural Systems with Processing](https://www.amazon.com.br/Nature-Code-Simulating-Natural-Processing/dp/0985930802) (Daniel Shiffman)
 
 _How can we capture the unpredictable evolutionary and emergent properties of nature in software? How can understanding the mathematical principles behind our physical world help us to create digital worlds? This book focuses on a range of programming strategies and techniques behind computer simulations of natural systems, from elementary concepts in mathematics and physics to more advanced algorithms that enable sophisticated visual results. Readers will progress from building a basic physics engine to creating intelligent moving objects and complex systems, setting the foundation for further experiments in generative design. Subjects covered include forces, trigonometry, fractals, cellular automata, self-organization, and genetic algorithms. The book's examples are written in Processing, an open-source language and development environment built on top of the Java programming language._
 
@@ -92,7 +90,7 @@ _How can we capture the unpredictable evolutionary and emergent properties of na
 
 <br></br>
 
-## 🕒 [The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation](https://www.amazon.com.br/Computational-Beauty-Nature-Explorations-Adaptation/dp/0262561271) (Garry Flake)
+### [The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation](https://www.amazon.com.br/Computational-Beauty-Nature-Explorations-Adaptation/dp/0262561271) (Garry Flake)
 
 _In this book Gary William Flake develops in depth the simple idea that recurrent rules can produce rich and complicated behaviors. Distinguishing agents (e.g., molecules, cells, animals, and species) from their interactions (e.g., chemical reactions, immune system responses, sexual reproduction, and evolution), Flake argues that it is the computational properties of interactions that account for much of what we think of as beautiful and interesting. From this basic thesis, Flake explores what he considers to be today's four most interesting computational topics: fractals, chaos, complex systems, and adaptation._
 
@@ -102,7 +100,7 @@ _Each of the book's parts can be read independently, enabling even the casual re
 
 <br></br>
 
-## 🕒 [On Growth and Form](https://www.amazon.com.br/Growth-Form-Complete-Revised/dp/0486671356) (Darcy Thmpson)
+### [On Growth and Form](https://www.amazon.com.br/Growth-Form-Complete-Revised/dp/0486671356) (Darcy Thmpson)
 
 _In this classic of biology and modern science, Sir D'Arcy Wentworth Thompson (1860-1948), one of the most distinguished scientists of the modern era, sets forth his seminal theory of transformation - that one species evolves into another not by successive minor changes in individual body parts but by large-scale transformations involving the body as a whole._
 
