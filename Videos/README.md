@@ -1,20 +1,20 @@
 <h1 align="center">🎥 VIDEOS</h1>
 
-<h2>📺 Channels</h2>
+## 📺 Channels
 
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) (Daniel Shiffman)
 
-<br/>
+<br>
 
-<h2>🎙️ Talks</h2>
+## 🎙️ Talks
 
 - [Creative Coding: An art and code showcase @ NYC 2017](https://www.youtube.com/watch?v=68JUaszsvmU) (Daniel Shiffman)
 
 - [Creative Coding with C++ @ CppCon2014](https://www.youtube.com/watch?v=ndUtK5IZslc) (Andrew Bell)
 
-<br/>
+<br>
 
-<h2>➕ Others</h2>
+## ➕ Others
 
 - [Generative Design](https://www.youtube.com/watch?v=CtYRfMzmWFU) (Autodesk)
 
